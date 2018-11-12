@@ -6,10 +6,6 @@ results printed to the terminal.
 
 Project source can be downloaded from https://github.com/room101b/BattlingMonsters/edit/master/README.md
 
-To compile - "javac BattlingMonsters.java"
-
-To run - java BattlingMonsters
-
 Files
 -----
 
